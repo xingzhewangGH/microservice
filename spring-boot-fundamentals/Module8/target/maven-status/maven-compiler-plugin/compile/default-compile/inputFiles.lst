@@ -1,0 +1,16 @@
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/repository/ReleaseRepository.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/entity/Application.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/exception/ApplicationNotFoundException.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/web/TzaController.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/service/ApplicationServiceImpl.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/service/ReleaseServiceImpl.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/entity/Ticket.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/service/ApplicationService.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/repository/TicketRepository.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/service/TicketServiceImpl.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/entity/Release.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/repository/ApplicationRepository.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/FundamentalsApplication.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/service/TicketService.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/service/ReleaseService.java
+/Users/zhewang/Documents/lnk/springbt/spring-boot-fundamentals/Module8/src/main/java/com/pluralsight/actuator/PeopleHealthIndicator.java
